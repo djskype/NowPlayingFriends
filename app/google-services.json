@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105439685941",
+    "project_id": "nowplayingfriends",
+    "storage_bucket": "nowplayingfriends.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105439685941:android:7c86cb63148f9baab0f07c",
+        "android_client_info": {
+          "package_name": "com.example.nowplayingfriends"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9np12K6kekZIwWMPZpoJoX7XxbwlzeOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
